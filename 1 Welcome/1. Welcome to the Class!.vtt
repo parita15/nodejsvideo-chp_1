@@ -1,0 +1,244 @@
+WEBVTT
+
+00:02.820 --> 00:09.100
+Welcome to the class I'm Andrew and I'm excited to show you everything that no JSA can do.
+
+00:09.150 --> 00:15.420
+When I first started teaching note on udemy about five years ago no it was a super popular choice and
+
+00:15.420 --> 00:19.230
+that has not changed over the last five years.
+
+00:19.230 --> 00:22.380
+A ton of great new features have been added to node.
+
+00:22.380 --> 00:29.910
+It's only gotten more popular and more mature as a tool being used by professional developers everywhere.
+
+00:29.910 --> 00:35.360
+Now in this course we're going to cover everything you need to become a professional no developer.
+
+00:35.460 --> 00:40.620
+But in this video specifically there are three important things I want to talk about.
+
+00:40.620 --> 00:43.290
+First up we're going to talk about the curriculum.
+
+00:43.290 --> 00:49.260
+We'll talk about how we're going to go from where we are now to where we want to be which is a professional
+
+00:49.280 --> 00:51.300
+No j s developer.
+
+00:51.300 --> 00:55.800
+The second thing we're going to talk about is how you can get the most out of the class.
+
+00:55.800 --> 01:01.950
+And finally we'll talk about how you can get help if you get stuck or if you just have a question about
+
+01:01.950 --> 01:03.980
+something covered in the course.
+
+01:03.990 --> 01:07.680
+So let's go ahead and jump right in and talk about the course curriculum
+
+01:11.130 --> 01:17.220
+the curriculum for this class is broken into four major parts and in each part you end up building a
+
+01:17.220 --> 01:23.670
+brand new application by the end of the class you'll have built a Notes app that's part one a weather
+
+01:23.670 --> 01:28.380
+app for part 2 a task manager app for part 3.
+
+01:28.410 --> 01:34.220
+And finally we'll be wrapping up the course with a chat application for Part 4.
+
+01:34.290 --> 01:39.680
+Now with every new feature you learn you're actually going to integrate it into an application.
+
+01:39.690 --> 01:43.020
+So the goal is not just to learn features in isolation.
+
+01:43.020 --> 01:48.870
+The goal is to figure out how to combine these features together to build useful and interesting apps.
+
+01:48.870 --> 01:55.050
+My goal for you is that by the end of the class you can build useful and interesting apps on your own.
+
+01:55.170 --> 02:00.690
+At the end of the class I'll actually offer up some suggestions of what you could build based off of
+
+02:00.690 --> 02:02.020
+what you learned.
+
+02:02.130 --> 02:06.080
+Now the first app we're going to build together is the notes application.
+
+02:06.150 --> 02:11.730
+This is going to allow us to explore the very fundamentals of note so you'll learn how to create a note
+
+02:11.730 --> 02:12.860
+application.
+
+02:12.900 --> 02:18.060
+You'll learn how to load in the various features that node provides and you'll learn how to run your
+
+02:18.060 --> 02:18.630
+apps.
+
+02:18.660 --> 02:24.360
+Along the way we'll explore some interesting things that node can do such as reading and writing from
+
+02:24.360 --> 02:25.920
+the file system.
+
+02:25.920 --> 02:31.770
+Now once we have the basics down we're going to move on to the weather application which is a web app
+
+02:32.040 --> 02:36.120
+so the user will interact with that app via the browser.
+
+02:36.130 --> 02:41.710
+This application is going to require you to learn about creating your own no J.S. servers.
+
+02:41.820 --> 02:49.080
+Building your own API and communicating with third party services such as a service that allows you
+
+02:49.080 --> 02:53.020
+to fetch real time weather data for a given location.
+
+02:53.160 --> 02:59.580
+The app after that the task manager app comes with all of the features you would expect from an application.
+
+02:59.610 --> 03:03.150
+This includes authentication with an email and password.
+
+03:03.150 --> 03:06.780
+It includes real database storage and Mongo D.B..
+
+03:06.810 --> 03:13.830
+We're also going to cover useful features like file upload emails sending and more now of the last application
+
+03:13.830 --> 03:16.570
+you'll be building is a real time chat app.
+
+03:16.710 --> 03:18.910
+So you're going to learn how to use socket ie.
+
+03:18.920 --> 03:24.690
+Oh and web sockets to create real time applications for you and your users.
+
+03:24.690 --> 03:27.110
+Now that you know what you're getting yourself into.
+
+03:27.330 --> 03:33.060
+What I want to do is offer up a couple of suggestions as to how you can get the most out of the class
+
+03:36.720 --> 03:42.300
+this course was designed to be completely interactive so to get the most value out of the class you
+
+03:42.330 --> 03:44.060
+need to interact with it.
+
+03:44.100 --> 03:50.150
+Everything I do on my machine is something that you should be doing on your machine as well.
+
+03:50.160 --> 03:55.560
+So when we explore a new feature I'll be adding some code to one of our projects explaining what it
+
+03:55.560 --> 03:57.300
+does and then running it.
+
+03:57.300 --> 04:02.220
+You shouldn't be doing the same on your machine even though you're just watching what I'm doing and
+
+04:02.220 --> 04:03.990
+then doing it yourself.
+
+04:03.990 --> 04:09.900
+This is a bit of monkey see monkey do where you're just following along but it's really important in
+
+04:09.900 --> 04:13.320
+order to understand what a new feature does.
+
+04:13.380 --> 04:19.530
+Now when it comes to building up your problem solving abilities the monkey see monkey do approach doesn't
+
+04:19.530 --> 04:20.270
+work.
+
+04:20.280 --> 04:27.690
+That's why in this class I've included over 100 unique challenges requiring you to solve problems on
+
+04:27.690 --> 04:30.910
+your own using what's been covered in the course.
+
+04:30.930 --> 04:34.300
+So I'll set up the problem at telling you what I'd like you to do.
+
+04:34.380 --> 04:39.580
+I'll give you some time to go off and do it then together we'll work through the solution.
+
+04:39.600 --> 04:45.010
+It's really important that you do both of these follow along with the lessons and give the challenges
+
+04:45.030 --> 04:51.270
+an honest try that's going to make sure that when you're done the class you actually have these skills
+
+04:51.330 --> 04:55.740
+and experience to go off and build applications on your own.
+
+04:55.740 --> 04:59.670
+All right let's go ahead and talk about how you can get help should you need it.
+
+05:03.310 --> 05:08.500
+We're about to spend a lot of time together learning something new and it's likely that at some point
+
+05:08.500 --> 05:11.180
+in the class you're going to need a little help.
+
+05:11.230 --> 05:12.950
+Maybe you're running the program.
+
+05:12.940 --> 05:16.400
+We've been creating together and you're getting different results.
+
+05:16.450 --> 05:23.110
+Or maybe you try to run the program and it completely crashes printing some sort of cryptic error message
+
+05:23.350 --> 05:25.330
+regardless of what's going wrong.
+
+05:25.420 --> 05:29.890
+The course Q and A is your place to ask questions and get help.
+
+05:29.890 --> 05:36.250
+All that we ask is you provide as much information about your problem so we can help get you unstuck
+
+05:36.430 --> 05:38.340
+and back on track quickly.
+
+05:38.350 --> 05:44.980
+This includes a zip of your project code screenshots of errors or results that you weren't expecting
+
+05:45.220 --> 05:50.050
+and a description of what exactly you were doing when the problem occurred.
+
+05:50.110 --> 05:56.050
+Now throughout the class I'll also be teaching you how to debug your node J.S. applications and read
+
+05:56.080 --> 05:57.880
+those error messages.
+
+05:57.880 --> 06:01.330
+But the course Q and A is always there should you need it.
+
+06:01.450 --> 06:02.010
+All right.
+
+06:02.020 --> 06:03.790
+That is it for this video.
+
+06:03.820 --> 06:06.280
+Let's go ahead and continue on with the class.
